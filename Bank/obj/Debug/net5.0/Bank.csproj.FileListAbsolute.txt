@@ -1,0 +1,16 @@
+C:\Users\Nathan\workspace\unitTesting\Bank\bin\Debug\net5.0\Bank.exe
+C:\Users\Nathan\workspace\unitTesting\Bank\bin\Debug\net5.0\Bank.deps.json
+C:\Users\Nathan\workspace\unitTesting\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+C:\Users\Nathan\workspace\unitTesting\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+C:\Users\Nathan\workspace\unitTesting\Bank\bin\Debug\net5.0\Bank.dll
+C:\Users\Nathan\workspace\unitTesting\Bank\bin\Debug\net5.0\Bank.pdb
+C:\Users\Nathan\workspace\unitTesting\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+C:\Users\Nathan\workspace\unitTesting\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\workspace\unitTesting\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\Users\Nathan\workspace\unitTesting\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\Users\Nathan\workspace\unitTesting\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\workspace\unitTesting\Bank\obj\Debug\net5.0\Bank.dll
+C:\Users\Nathan\workspace\unitTesting\Bank\obj\Debug\net5.0\refint\Bank.dll
+C:\Users\Nathan\workspace\unitTesting\Bank\obj\Debug\net5.0\Bank.pdb
+C:\Users\Nathan\workspace\unitTesting\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
+C:\Users\Nathan\workspace\unitTesting\Bank\obj\Debug\net5.0\ref\Bank.dll
